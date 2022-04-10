@@ -362,6 +362,16 @@ main {
   transition: transform 0.2s ease-in-out;
 }
 
+/* NEW */
+/* .about-first {
+  display: "flex";
+}
+
+.about-img {
+  height: 20px,
+} */
+
+
 @media (max-width: 600px) {
   .header {
     height: 6em;
